@@ -85,18 +85,6 @@
       "id": 30578192
     },
     {
-      "cityName": "Prague",
-      "country": "Czech Republic",
-      "emoji": "🇨🇿",
-      "date": "2027-08-19T13:55:41.190Z",
-      "notes": "Old town is stunning",
-      "position": {
-        "lat": 50.0755381,
-        "lng": 14.4378005
-      },
-      "id": 56102938
-    },
-    {
       "cityName": "Budapest",
       "country": "Hungary",
       "emoji": "🇭🇺",
