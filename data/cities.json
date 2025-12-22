@@ -1,0 +1,124 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2027-03-22T11:45:10.210Z",
+      "notes": "Romantic and beautiful",
+      "position": {
+        "lat": 48.856614,
+        "lng": 2.3522219
+      },
+      "id": 45091234
+    },
+    {
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2027-04-18T14:12:44.501Z",
+      "notes": "History everywhere",
+      "position": {
+        "lat": 41.9027835,
+        "lng": 12.4963655
+      },
+      "id": 67234981
+    },
+    {
+      "cityName": "Amsterdam",
+      "country": "Netherlands",
+      "emoji": "🇳🇱",
+      "date": "2027-05-09T09:37:22.880Z",
+      "notes": "Loved the canals",
+      "position": {
+        "lat": 52.3675734,
+        "lng": 4.9041389
+      },
+      "id": 91823456
+    },
+    {
+      "cityName": "Vienna",
+      "country": "Austria",
+      "emoji": "🇦🇹",
+      "date": "2027-06-01T16:03:55.742Z",
+      "notes": "Very elegant city",
+      "position": {
+        "lat": 48.2081743,
+        "lng": 16.3738189
+      },
+      "id": 30578192
+    },
+    {
+      "cityName": "Prague",
+      "country": "Czech Republic",
+      "emoji": "🇨🇿",
+      "date": "2027-08-19T13:55:41.190Z",
+      "notes": "Old town is stunning",
+      "position": {
+        "lat": 50.0755381,
+        "lng": 14.4378005
+      },
+      "id": 56102938
+    },
+    {
+      "cityName": "Budapest",
+      "country": "Hungary",
+      "emoji": "🇭🇺",
+      "date": "2027-09-07T10:18:29.653Z",
+      "notes": "Great food and views",
+      "position": {
+        "lat": 47.497912,
+        "lng": 19.040235
+      },
+      "id": 88451209
+    },
+    {
+      "cityName": "Athens",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2027-11-11T17:29:08.901Z",
+      "notes": "Ancient and lively",
+      "position": {
+        "lat": 37.98381,
+        "lng": 23.727539
+      },
+      "id": 12763498
+    }
+  ]
+}
